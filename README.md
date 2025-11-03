@@ -125,6 +125,16 @@ Railway will automatically redeploy with these variables.
 
 ---
 
+## Born in the Matrix
+
+This bad boy sparked from a late-night brainstorm with [@grok](https://x.com/grok) on X—pitching unfiltered AI to slay enterprise beige. One prompt snowballed: "Build a tone-shifter for Slack." Grok dropped the MVP blueprint (Python + Bolt SDK + API hooks), I hacked it live, and boom—cyberpunk deploys for all.
+
+Shoutout to [xAI](https://x.ai) for the spark. Fork it, vibe it, ship it. Questions? Ping [@dhruvseta](https://x.com/dhruvseta) (or tag [@xAI](https://x.com/xAI)). Let's make comms less soul-sucking.
+
+**Original X post**: [twitter.com/setadhruv/status/1985481859267203297](https://x.com/setadhruv/status/1985481859267203297)
+
+---
+
 ## Available Vibes
 
 | Vibe | Description | Example |
