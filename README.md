@@ -266,6 +266,7 @@ grokvibe/
 
 ## Documentation
 
+- **[VISION.md](docs/VISION.md)** - Product vision and roadmap 🚀
 - [ARCHITECTURE.md](docs/ARCHITECTURE.md) - System design
 - [TASKS.md](docs/TASKS.md) - Development tasks
 - [STATUS.md](docs/STATUS.md) - Current progress
