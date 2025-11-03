@@ -2,6 +2,9 @@
 
 A Slack bot that translates messages between different "vibes" using xAI's Grok API.
 
+**Status**: ✅ Deployed and running on Railway
+**Production URL**: https://web-production-f9d41.up.railway.app
+
 ## Features
 
 - **5 Translation Vibes**: Professional, Nerdy, Cyberpunk, UK Slang, Unfiltered
