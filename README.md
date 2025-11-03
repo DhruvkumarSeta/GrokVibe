@@ -4,6 +4,8 @@ A Slack bot that translates messages between different "vibes" using xAI's Grok 
 
 **Want to add this to your own Slack workspace?** Follow the [Quick Setup Guide](#quick-setup-guide) below - it takes ~15 minutes!
 
+> 💡 **This is an MVP!** See [VISION.md](docs/VISION.md) for the full roadmap: automatic translation of ALL messages, browser extensions, and a personalized communication layer for modern workspaces.
+
 ## Features
 
 - **5 Translation Vibes**: Professional, Nerdy, Cyberpunk, UK Slang, Unfiltered
